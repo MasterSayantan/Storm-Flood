@@ -1,0 +1,10 @@
+# External modules
+tqdm
+
+# Built-in modules (no installation required)
+# - platform
+# - os
+# - random
+# - time
+# - socket
+
