@@ -23,7 +23,7 @@ The **Storm Flood Tool** operates by sending random UDP packets to a specified I
 2. **Port Selection:** Users can choose whether to attack all ports or focus on a single port.
 3. **Flood Execution:** The tool sends UDP packets continuously, displaying the number of packets sent to the target along with the port number.
 
-![image](https://github.com/MasterSayantan/Storm_Flood/blob/main/Screenshot%202024-10-17%20183359.png)
+![image](https://github.com/MasterSayantan/Storm_Flood/blob/main/picture.png)
 
 ---
 
